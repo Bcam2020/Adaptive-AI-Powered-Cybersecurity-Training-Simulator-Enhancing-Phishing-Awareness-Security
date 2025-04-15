@@ -128,9 +128,7 @@ Ensure that your code adheres to the project’s style guidelines and includes a
 ## Contact
 For any questions or further assistance, please contact:
 
-Name: Your Name
+Name: Ben Camphor
 
-Email: your.email@example.com
-
-GitHub: @yourusername
+GitHub: @Bcam2020
 
